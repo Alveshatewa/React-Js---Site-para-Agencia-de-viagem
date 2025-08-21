@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import Topo from './componentes/Topo/index.jsx';
+import Topo from './componentes/topo/index.jsx';
 import SecaoBanner from './componentes/seccaoBanner/index.jsx';
 import SecaoExperienciaTrabalho from './componentes/seccaoExperienciaTrabalho/index.jsx';
 import Rodape from './componentes/rodape/index.jsx';
